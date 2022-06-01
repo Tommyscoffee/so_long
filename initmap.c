@@ -6,7 +6,7 @@
 /*   By: akihito <akihito@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/27 14:00:31 by akihito           #+#    #+#             */
-/*   Updated: 2021/11/30 19:18:56 by akihito          ###   ########.fr       */
+/*   Updated: 2022/06/02 00:29:08 by akihito          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -76,7 +76,6 @@ int	get_line(t_vars *vars, int fd, int i, const char *argv)
 	while (d == 1)
 	{
 		d = get_next_line(fd, &line);
-		printf("%s",line);//1111111111111
 		free(line);
 		if (d < 0)
 			put_error("gnl error");
