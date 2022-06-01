@@ -1,5 +1,6 @@
 # so_long
-so_long_group1
+<img width="540" alt="スクリーンショット 2022-06-02 0 21 13" src="https://user-images.githubusercontent.com/67151024/171440387-f665302f-6a42-4bf5-b3d6-7ce49eea5089.png">
+so_long
 42tokyoの課題で、C言語で2Dゲームを作成しました。
 
 （コンパイル手順）　 １：macOSの方は、まずXquartzを起動してください。 ２：so_longディレクトリでmakeコマンドを実行していただくと、so_longという実行ファイルが作成されます
@@ -16,4 +17,4 @@ txtファイルで自由に作れます。
 ・'P':プレイヤー 　（1つだけ）
 ・マップは長方形で、全てのへんが1(壁)で囲まれていないといけない
 
-<img width="540" alt="スクリーンショット 2022-06-02 0 21 13" src="https://user-images.githubusercontent.com/67151024/171440387-f665302f-6a42-4bf5-b3d6-7ce49eea5089.png">
+
